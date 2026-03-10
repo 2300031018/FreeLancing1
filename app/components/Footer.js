@@ -12,7 +12,7 @@ export default function Footer() {
           <div>
             <h3 className="text-white font-bold text-lg mb-4 flex items-center gap-2">
               <span className="text-2xl">🏗️</span>
-              Yashwanth Hemanth
+              Yashwant Hemant
             </h3>
             <p className="text-sm leading-relaxed">
               Professional waterproofing service with 25+ years of expertise.
@@ -62,7 +62,7 @@ export default function Footer() {
         <div className="border-t border-gray-800 pt-8 mt-8">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-sm text-center md:text-left">
-              &copy; {currentYear} Yashwanth Hemanth Waterproofing Service. All rights reserved.
+              &copy; {currentYear} Yashwant Hemant Waterproofing Service. All rights reserved.
             </p>
             <div className="flex gap-6 text-sm">
               <a href="#" className="hover:text-white transition-colors">Privacy Policy</a>

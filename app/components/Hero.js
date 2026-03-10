@@ -2,7 +2,7 @@
 
 export default function Hero() {
   const phoneNumber = '+91 96031 14112';
-  const whatsappLink = `https://wa.me/919603114112?text=Hello%20Yashwanth%20Hemanth%20Waterproofing%2C%20I%20need%20a%20free%20roof%20inspection.%20Please%20help.`;
+  const whatsappLink = `https://wa.me/919603114112?text=Hello%20Yashwant%20Hemant%20Waterproofing%20Service%20Vijayawada%2C%20I%20need%20a%20free%20roof%20inspection.%20Please%20help.`;
 
   return (
     <section className="relative w-full min-h-screen bg-gradient-to-br from-primary-900 via-primary-800 to-primary-700 flex items-center justify-center py-12 px-4">
@@ -20,7 +20,7 @@ export default function Hero() {
 
         {/* Main headline */}
         <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-4 leading-tight animate-pulse-slow">
-          Roof Waterproofing &<br className="hidden sm:block" /> Seepage Solutions in Vijayawada
+          Yashwant Hemant Waterproofing Service<br className="hidden sm:block" /> Vijayawada
         </h1>
 
         {/* Subheadline */}
@@ -31,13 +31,13 @@ export default function Hero() {
         {/* CTA message */}
         <div className="bg-accent bg-opacity-20 border-l-4 border-accent rounded-lg p-4 mb-8 inline-block">
           <p className="text-lg md:text-xl font-semibold text-accent">
-            🎁 Free Roof Inspection Available
+            🎁 Free Inspection Available
           </p>
         </div>
 
         {/* Service areas */}
         <p className="text-base md:text-lg text-gray-300 mb-8">
-          Serving Vijayawada, Guntur, Mangalagiri, Tenali and Nearby Areas
+          Serving Vijayawada & Nearby Areas
         </p>
 
         {/* CTA Buttons */}

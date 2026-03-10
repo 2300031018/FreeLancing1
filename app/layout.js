@@ -1,16 +1,16 @@
 import './globals.css';
 
 export const metadata = {
-  title: 'Roof Waterproofing & Seepage Solutions in Vijayawada | Yashwanth Hemanth',
+  title: 'Yashwant Hemant Waterproofing Service Vijayawada',
   description: 'Professional waterproofing service in Vijayawada. 25+ years experience. Free roof inspection available. Call now for quick service.',
   keywords: 'waterproofing contractor Vijayawada, terrace waterproofing Vijayawada, roof seepage repair near me, bathroom waterproofing Vijayawada',
   robots: 'index, follow',
-  canonical: 'https://yashwanthwaterproofing.com',
+  canonical: 'https://yashwanthemantwaterproofing.com',
   openGraph: {
     type: 'website',
     locale: 'en_IN',
-    url: 'https://yashwanthwaterproofing.com',
-    title: 'Roof Waterproofing & Seepage Solutions in Vijayawada | Yashwanth Hemanth',
+    url: 'https://yashwanthemantwaterproofing.com',
+    title: 'Yashwant Hemant Waterproofing Service Vijayawada',
     description: 'Professional waterproofing service. 25+ years of expertise.',
   },
 };
@@ -32,7 +32,7 @@ export default function RootLayout({ children }) {
         {/* Apple App Meta Tags */}
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
-        <meta name="apple-mobile-web-app-title" content="Yashwanth Waterproofing" />
+        <meta name="apple-mobile-web-app-title" content="Yashwant Hemant Waterproofing" />
         
         {/* Preload critical fonts */}
         <link rel="preconnect" href="https://fonts.googleapis.com" />

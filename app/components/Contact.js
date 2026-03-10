@@ -24,7 +24,7 @@ export default function Contact() {
   const handleSubmit = (e) => {
     e.preventDefault();
     // Create WhatsApp message
-    const whatsappMessage = `Hi Yashwanth Hemanth Waterproofing! I'm ${formData.name}. Service: ${formData.serviceType}. Message: ${formData.message}. Contact: ${formData.phone}`;
+    const whatsappMessage = `Hi Yashwant Hemant Waterproofing Service! I'm ${formData.name}. Service: ${formData.serviceType}. Message: ${formData.message}. Contact: ${formData.phone}`;
     const whatsappLink = `https://wa.me/919603114112?text=${encodeURIComponent(whatsappMessage)}`;
     
     // In production, you would send this to a backend service
@@ -44,7 +44,7 @@ export default function Contact() {
   };
 
   const phoneNumber = '+91 96031 14112';
-  const whatsappLink = `https://wa.me/919603114112?text=Hello%20Yashwanth%20Hemanth%20Waterproofing%2C%20I%20need%20a%20free%20roof%20inspection.`;
+  const whatsappLink = `https://wa.me/919603114112?text=Hello%20Yashwant%20Hemant%20Waterproofing%20Service%20Vijayawada%2C%20I%20need%20a%20free%20roof%20inspection.`;
 
   return (
     <section id="contact" className="w-full py-16 md:py-20 px-4 bg-primary-900 text-white">
@@ -245,8 +245,8 @@ export default function Contact() {
           <h3 className="text-2xl font-bold mb-6 text-center">Find Us on the Map</h3>
           <div className="w-full border border-white border-opacity-20 rounded-lg overflow-hidden bg-white bg-opacity-10">
             <iframe
-              title="Yashwanth Hemanth Waterproofing Service Location"
-              src="https://maps.google.com/maps?q=Yashwanth%20Hemanth%20Waterproofing%20Service%20Vijayawada&z=14&output=embed"
+              title="Yashwant Hemant Waterproofing Service Vijayawada Location"
+              src="https://maps.google.com/maps?q=Yashwant%20Hemant%20Waterproofing%20Service%20Vijayawada&z=14&output=embed"
               className="w-full h-96"
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"

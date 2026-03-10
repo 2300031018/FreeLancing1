@@ -14,7 +14,7 @@ export default function Header() {
           <div className="flex items-center gap-2">
             <span className="text-3xl">🏗️</span>
             <div>
-              <h1 className="text-lg font-bold">Yashwanth Hemanth</h1>
+              <h1 className="text-lg font-bold">Yashwant Hemant</h1>
               <p className="text-xs text-gray-300">Waterproofing Expert</p>
             </div>
           </div>
