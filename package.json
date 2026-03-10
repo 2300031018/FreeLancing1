@@ -1,0 +1,21 @@
+{
+  "name": "yashwanth-waterproofing",
+  "version": "1.0.0",
+  "description": "High-performance mobile-first contractor website for Yashwanth Hemanth Waterproofing Service",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build && next export",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^15.0.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10",
+    "postcss": "^8",
+    "tailwindcss": "^3"
+  }
+}
