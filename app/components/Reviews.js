@@ -233,7 +233,7 @@ export default function Reviews() {
               </div>
 
               {/* Review Text */}
-              <p className="text-gray-700 mb-6 text-sm leading-relaxed italic">"{review.review}"</p>
+              <p className="text-gray-700 mb-6 text-sm leading-relaxed italic">&ldquo;{review.review}&rdquo;</p>
 
               {/* Customer Info */}
               <div className="flex items-center gap-3">

@@ -1,11 +1,9 @@
 import './globals.css';
-import { Metadata } from 'next';
 
 export const metadata = {
   title: 'Roof Waterproofing & Seepage Solutions in Vijayawada | Yashwanth Hemanth',
   description: 'Professional waterproofing service in Vijayawada. 25+ years experience. Free roof inspection available. Call now for quick service.',
   keywords: 'waterproofing contractor Vijayawada, terrace waterproofing Vijayawada, roof seepage repair near me, bathroom waterproofing Vijayawada',
-  viewport: 'width=device-width, initial-scale=1, maximum-scale=1',
   robots: 'index, follow',
   canonical: 'https://yashwanthwaterproofing.com',
   openGraph: {

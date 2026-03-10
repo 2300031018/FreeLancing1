@@ -4,7 +4,7 @@
   "description": "High-performance mobile-first contractor website for Yashwanth Hemanth Waterproofing Service",
   "scripts": {
     "dev": "next dev",
-    "build": "next build && next export",
+    "build": "next build",
     "start": "next start",
     "lint": "next lint"
   },
@@ -15,6 +15,8 @@
   },
   "devDependencies": {
     "autoprefixer": "^10",
+    "eslint": "^9.22.0",
+    "eslint-config-next": "^15.0.0",
     "postcss": "^8",
     "tailwindcss": "^3"
   }

@@ -1,4 +1,5 @@
 import Image from 'next/image';
+import Link from 'next/link';
 import { readdir } from 'fs/promises';
 import path from 'path';
 
@@ -29,12 +30,12 @@ export default async function GalleryPage() {
         </div>
 
         <div className="text-center mt-10">
-          <a
+          <Link
             href="/"
             className="inline-block px-8 py-3 bg-primary-900 hover:bg-primary-800 text-white font-bold rounded-lg transition-all duration-200"
           >
             Back to Home
-          </a>
+          </Link>
         </div>
       </div>
     </main>
